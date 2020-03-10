@@ -1,0 +1,25 @@
+body {
+  background-image: url('grain.jpg');
+  background-image: url('back.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  background-color: #006ca6;
+}
+
+h1 {
+  font-family: 'Neuton';
+  font-size: 150px;
+  display: flex;
+  position: absolute;
+  padding-left: 400px;
+  line-height: 0px;
+  color: #ffef08;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  padding-left: 215px;
+  padding-top: 1000px;
+}
